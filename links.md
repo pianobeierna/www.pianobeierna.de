@@ -1,1 +1,0 @@
-- [sitemap](https://github.com/jekyll/jekyll-sitemap)
