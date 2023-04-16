@@ -19,7 +19,7 @@ Parallel war ich als Klavierlehrerin an der Musikhochschule und am Konservatoriu
 Eine meiner damaligen Schülerinnen war die heutige Starpianistin [Gabriela Montero](https://de.wikipedia.org/wiki/Gabriela_Montero), die als Kind bei mir ihren ersten Klavierunterricht nahm.
 Zu meinen Schülern zählen schon immer sowohl Anfänger und Kinder als auch Erwachsene und Fortgeschrittene. In meinem Unterricht vermittle ich neben pianistischer Technik auch die Musikgeschichte hinter jedem Stück. Das macht den Unterricht sehr unterhaltsam und sorgt bei den Schülern und Schülerinnen zusammen mit dem wunderschönen Klang meines Steinway-Flügels für große Motivation.
 
-Neben meiner Tätigkeit als Klavierlehrerin engagiere ich mich als Gründungs-und Vorstandsmitglied bei [C.O.N. Sonanza](https://www.consonanza.org), dem Münchener Orchestra- und Chorprojekt nach dem Ansatz von [El Sistema](https://elsistema.org.ve). 
+Neben meiner Tätigkeit als Klavierlehrerin engagiere ich mich als Gründungs-und Vorstandsmitglied bei [C.O.N. Sonanza](https://www.consonanza.org), dem Münchener Orchester- und Chorprojekt nach dem Ansatz von [El Sistema](https://elsistema.org.ve). 
 
 ![image]({{ site.baseurl }}/assets/erna_mit_klavier.jpg)
 
