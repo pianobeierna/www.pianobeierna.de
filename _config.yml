@@ -8,13 +8,17 @@ author:
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
   Klavierunterricht auf Steinway Flügel bei Dipl.-Klavierlehrerin von vielen Talenten und Münchner Nachwuchs-Pianisten
+
 # Build settings
 
-theme: minima
+remote_theme: jekyll/minima
+url: "https://www.pianobeierna.de"
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-remote-theme
 
 # Theme-specific settings
 
@@ -57,7 +61,4 @@ header_pages:
 # Set to `true` to show excerpts on the homepage.
 #
 show_excerpts: false
-site.baseurl: https://bochinche.github.io/erna
-
-
-# A simple image gallery in Jekyll without plugins
+site.baseurl: https://www.pianobeierna.de/
