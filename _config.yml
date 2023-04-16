@@ -11,14 +11,16 @@ description: >
 
 # Build settings
 
+domain: "www.pianobeierna.de" 
 remote_theme: jekyll/minima
+baseurl: ""
 url: "https://www.pianobeierna.de"
 
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 # Theme-specific settings
 
@@ -61,4 +63,3 @@ header_pages:
 # Set to `true` to show excerpts on the homepage.
 #
 show_excerpts: false
-site.baseurl: https://www.pianobeierna.de/
