@@ -9,6 +9,7 @@ _site/
 vendor/
 Gemfile.lock
 
+
 # Gems
 *.gem
 
@@ -23,3 +24,4 @@ Thumbs.db
 
 # vim files 
 *.swp 
+.ruby-version
