@@ -25,6 +25,3 @@ Klavierkonzert im Piano Fischer Haus mit der jungen Pianistin Anne Sophie Cruz
 5. Prelude Nr.8 - C. Debussy
 6. Quenas - D. Lavalle
 7. Danzon Nr.1 - O. Cruz
-
-
-
