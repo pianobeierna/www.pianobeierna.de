@@ -10,3 +10,5 @@ Meistens wird mit einfachen Stücken von Barrockmeistern wie Johann Sebastian Ba
 Anschließend werden Stücke aus der schönen Romantischen Zeit erlernt: Klavierstücke von Robert Schumann, Felix Mendelssohn und Frédéric Chopin, und darauf folgend auch Stücke aus der wunderschönen Epoche der Post-Romantiker (Johannes Brahms und die französischen Impressionisten Claude Debussy und Maurice Ravel). Außerdem gibt es viele schöne Transkriptionen für Klavier von Filmmusik, was Erwachsenen und Kindern viel Spaß macht.
 
 Daraus erstelle ich für jede einzelne Persönlichkeit ein individuell auserwähltes und maßgeschneidertes Repertoire.
+
+----
