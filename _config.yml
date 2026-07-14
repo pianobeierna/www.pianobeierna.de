@@ -8,9 +8,21 @@ author:
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
   Klavierunterricht auf Steinway Flügel bei Dipl.-Klavierlehrerin von vielen Talenten und Münchner Nachwuchs-Pianisten
+
+# Canonical site URL — required by jekyll-seo-tag for <link rel="canonical">,
+# og:url and absolute sitemap/feed URLs.
+url: https://www.pianobeierna.de
+
+# Site language — drives <html lang> and og:locale (de_DE) via jekyll-seo-tag.
+lang: de-DE
+
 # Build settings
 
 theme: minima
+
+# Minify the compiled CSS (appearance-preserving).
+sass:
+  style: compressed
 
 plugins:
   - jekyll-feed
@@ -58,5 +70,4 @@ header_pages:
 # Set to `true` to show excerpts on the homepage.
 #
 show_excerpts: false
-site.baseurl: https://www.pianobeierna.de
 

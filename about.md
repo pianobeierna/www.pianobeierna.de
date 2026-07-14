@@ -21,40 +21,61 @@ Zu meinen Schülern zählen schon immer sowohl Anfänger und Kinder als auch Erw
 
 Neben meiner Tätigkeit als Klavierlehrerin engagiere ich mich als Gründungs-und Vorstandsmitglied bei [C.O.N. Sonanza](https://www.consonanza.org), dem Münchener Orchester- und Chorprojekt nach dem Ansatz von [El Sistema](https://elsistema.org.ve). 
 
-![image]({{ site.baseurl }}/assets/erna_mit_klavier.jpg)
+<img src="{{ site.baseurl }}/assets/erna_mit_klavier.jpg" alt="Erna Mühlbauer-Vagnini am Klavier" width="768" height="1024" loading="lazy" decoding="async">
 
 ---
 
 #### Klavierkonzert Nr. 1 von Ludwig van Beethoven. Pianistin: Erna Mühlbauer, Dirigent: José Antonio Abreu. Orquesta Nacional Juvenil de Venezuela (Caracas 28. März 1977)
-![image]({{ site.baseurl }}/assets/A.png)
+<picture>
+  <source type="image/webp" srcset="{{ site.baseurl }}/assets/opt/A.webp">
+  <img src="{{ site.baseurl }}/assets/opt/A.jpg" alt="Erna Mühlbauer als Pianistin beim Beethoven-Klavierkonzert Nr. 1, Caracas 1977" width="496" height="806" loading="lazy" decoding="async">
+</picture>
 
 ---
 
 #### Klavierkonzert Nr. 1 von Ludwig van Beethoven. Pianistin: Erna Mühlbauer, Dirigent: José Antonio Abreu. Orquesta Nacional Juvenil de Venezuela (Caracas 28. März 1977)
-![image]({{ site.baseurl }}/assets/B.png)
+<picture>
+  <source type="image/webp" srcset="{{ site.baseurl }}/assets/opt/B.webp">
+  <img src="{{ site.baseurl }}/assets/opt/B.jpg" alt="Erna Mühlbauer beim Beethoven-Klavierkonzert Nr. 1 mit dem Orquesta Nacional Juvenil de Venezuela, Caracas 1977" width="1223" height="809" loading="lazy" decoding="async">
+</picture>
 
 ---
 
 #### Barrok Kammermusik (Konzert in Sala José Félix Ribas, Caracas, 11. August 1978)
-![image]({{ site.baseurl }}/assets/C.png)
+<picture>
+  <source type="image/webp" srcset="{{ site.baseurl }}/assets/opt/C.webp">
+  <img src="{{ site.baseurl }}/assets/opt/C.jpg" alt="Barock-Kammermusikkonzert in der Sala José Félix Ribas, Caracas 1978" width="1139" height="798" loading="lazy" decoding="async">
+</picture>
 
 ---
 
 #### Mit Dr. Abreu und seinem Team bei einer Spendengelder-Übergabe eines venezolanischen Ministers für die Gründung eines neuen „Nucleo“ (Standort) von El Sistema 
-![image]({{ site.baseurl }}/assets/D.png)
+<picture>
+  <source type="image/webp" srcset="{{ site.baseurl }}/assets/opt/D.webp">
+  <img src="{{ site.baseurl }}/assets/opt/D.jpg" alt="Erna Mühlbauer mit Dr. José Antonio Abreu bei einer Spendenübergabe für El Sistema" width="1214" height="807" loading="lazy" decoding="async">
+</picture>
 
 ---
 
 #### Mit dem berühmten Komponisten George Crumb bei seinem Besuch bei mir in Caracas
-![image]({{ site.baseurl }}/assets/E.png)
+<picture>
+  <source type="image/webp" srcset="{{ site.baseurl }}/assets/opt/E.webp">
+  <img src="{{ site.baseurl }}/assets/opt/E.jpg" alt="Erna Mühlbauer mit dem Komponisten George Crumb in Caracas" width="475" height="788" loading="lazy" decoding="async">
+</picture>
 
 ---
 
 #### Als Zuständige für die Organisation des ersten Konzerts des Kinderorchesters von El Sistema mit 400 Mitgliedern (Sala José Félix Ribas von Caracas, am 11 September 1978)
-![image]({{ site.baseurl }}/assets/F.png)
+<picture>
+  <source type="image/webp" srcset="{{ site.baseurl }}/assets/opt/F.webp">
+  <img src="{{ site.baseurl }}/assets/opt/F.jpg" alt="Erstes Konzert des Kinderorchesters von El Sistema, Sala José Félix Ribas, Caracas 1978" width="1205" height="802" loading="lazy" decoding="async">
+</picture>
 
 ---
 
 #### Foto aus dem Buch “Los Pioneros” zur Gründung und uns Gründungsmitgliedern von El Sistema
-![image]({{ site.baseurl }}/assets/G.png)
+<picture>
+  <source type="image/webp" srcset="{{ site.baseurl }}/assets/opt/G.webp">
+  <img src="{{ site.baseurl }}/assets/opt/G.jpg" alt="Gründungsmitglieder von El Sistema, Foto aus dem Buch „Los Pioneros“" width="812" height="487" loading="lazy" decoding="async">
+</picture>
 

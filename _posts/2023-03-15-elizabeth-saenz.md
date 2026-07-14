@@ -8,4 +8,7 @@ title: Elizabeth Saenz
 
 Elizabeth Sáenz MD, Kinderärztin, MPHDC, MMCH Beauftragte für Drogenkontrolle und Verbrechensverhütung bei den Vereinten Nationen. Wien, Österreich
 
-![image]({{ site.baseurl }}/assets/elizabeth-saenz-5.png)
+<picture>
+  <source type="image/webp" srcset="{{ site.baseurl }}/assets/opt/elizabeth-saenz-5.webp">
+  <img src="{{ site.baseurl }}/assets/opt/elizabeth-saenz-5.jpg" alt="Elizabeth Sáenz" width="479" height="649" loading="lazy" decoding="async">
+</picture>

@@ -11,4 +11,7 @@ title: Silvia Cabrelles
 
 Silvia Cabrelles, Pianistin, Klavierlehrerin und Musiktherapeutin. Costa Rica
 
-![image]({{ site.baseurl }}/assets/Silvia_Cabrelles.jpg)
+<picture>
+  <source type="image/webp" srcset="{{ site.baseurl }}/assets/opt/Silvia_Cabrelles.webp">
+  <img src="{{ site.baseurl }}/assets/opt/Silvia_Cabrelles.jpg" alt="Silvia Cabrelles, Pianistin und Klavierlehrerin" width="1600" height="1587" loading="lazy" decoding="async">
+</picture>

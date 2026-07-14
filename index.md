@@ -7,7 +7,8 @@
 #
 layout: page
 title: Erna Mühlbauer-Vagnini
+image: /assets/steinway.jpg
 ---
 
-![image](/assets/steinway.jpg)
+<img src="/assets/steinway.jpg" alt="Steinway-Flügel im Unterrichtsraum" width="898" height="768" loading="eager" decoding="async">
 
